@@ -10,14 +10,14 @@ This repository contains the mechanical design files and supporting engineering 
 |---|---|
 | `CAD/` | SolidWorks parts, assemblies, and engineering drawings. |
 | `Design_Calculations/` | Supporting engineering calculations, component sizing, and mechanical analysis. |
-| `Concept_Development/` | Preliminary sketches, design concepts, and reference material. |
+| `Concepts` | Preliminary sketches, design concepts, and reference material. |
 | `Images/` | CAD renderings, diagrams, and project visuals. |
 
 ## Getting Started
 
 - **CAD Models:** Navigate to `CAD/` to access mechanical components and assemblies.
 - **Design Calculations:** Navigate to `Design_Calculations/` for supporting engineering analysis.
-- **Concept Development:** Navigate to `Concept_Development/` to view preliminary designs and sketches.
+- **Concept Development:** Navigate to `Concepts` to view preliminary designs and sketches.
 
 SolidWorks files should be opened with their associated part and assembly references to ensure proper functionality.
 
