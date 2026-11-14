@@ -4,6 +4,12 @@
 
 This repository contains the mechanical design files and supporting engineering documentation for our autonomous snow-clearing robot. It serves as the central location for SolidWorks models, engineering drawings, design calculations, and preliminary concepts.
 
+## Design Requirements
+- Snowplow should be wider than the wheel width when at maximum angle
+- Maximum angle is 25 degrees based on [Kage Innovation](https://kageinnovation.com/what-does-it-mean-to-angle-plow/)
+- Snowplow should meet the road at a 65 degree angle [SIMA](https://resources.sima.org/snow-and-ice-resource-center/cutting-edge)
+- Should be at least height of tires?????
+
 ## Repository Structure
 
 | Folder | Description |
